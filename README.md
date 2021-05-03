@@ -7,4 +7,4 @@ Task Submission - Web Development BootCamp (Sudan's Tech)
 1. Create your own issue and then send PR. 
 2. Solve the issues(if any) which are listed.
 
-### Star the repo if you like it!
+***Glad to see you here! Show some love by [starring](https://github.com/snehaM2210/RomCom) this repo.***
